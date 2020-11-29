@@ -26,4 +26,4 @@ RUN pip install scikit-image wandb
 
 RUN pip install ninja yacs cython matplotlib tqdm opencv-python numpy
 
-WORKDIR /maskrcnn-benchmark
+WORKDIR /
